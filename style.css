@@ -181,6 +181,10 @@ footer p {
     align-items: center;
   }
 
+  .hands img {
+    max-width: 50%;
+  }
+
   .options button {
     width: 120px;
     height: 45px;
