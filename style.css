@@ -159,7 +159,6 @@ footer p {
 @media (min-width: 320px) and (max-width: 699px ) {
 
   .game {
-    width: 100vw;
     position: relative;
   }
 
@@ -186,7 +185,7 @@ footer p {
   }
 
   .options button {
-    width: 120px;
+    width: 100px;
     height: 45px;
     font-size: 18px;
   }
